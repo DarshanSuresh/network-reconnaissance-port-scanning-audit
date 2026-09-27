@@ -1,0 +1,16 @@
+# Wireshark display filters used during analysis
+
+http
+ftp
+telnet
+smtp
+pop
+imap
+tcp
+udp
+dns
+http.request
+tcp.port == 21
+tcp.port == 23
+tcp.port == 80
+tcp.port == 53
